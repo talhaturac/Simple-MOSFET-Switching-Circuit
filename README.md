@@ -2,7 +2,7 @@
 
 In this study, an attempt has been made to design a simple but effective MOSFET switchingcircuit that can be used to trigger electromagnetic launchers. MOSFET is a semiconductor component often used for power switching due to their high efficiency and fast switching characteristics. The main goal of this study is to design a switching circuit that will be used to trigger an electromagnetic launcher in the future. However, the successful triggering will be controlled by the LED and not by the coils.  So we can actually approach the work as a general triggering circuit with MOSFETs.
 
-                     ![full-color](https://user-images.githubusercontent.com/123409659/233755585-e4e0738a-fb1e-4cb6-b2eb-a114ae81c62a.gif)
+![full-color](https://user-images.githubusercontent.com/123409659/233755585-e4e0738a-fb1e-4cb6-b2eb-a114ae81c62a.gif)
 
 ## Methodology
 
