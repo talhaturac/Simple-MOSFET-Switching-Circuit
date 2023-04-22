@@ -62,7 +62,7 @@ Electromagnetic launchers are very exciting devices and are shown as the technol
 [github.com]: https://img.shields.io/badge/GITHUB_PROFILE-181717?style=for-the-badge&logo=github&logoColor=white
 [github-url]: https://github.com/talhaturac
 [LinkedIn.com]: https://img.shields.io/badge/LINKEDIN_PROFILE-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white
-[LinkedIn-url]: https://github.com/talhaturac
+[LinkedIn-url]: https://www.linkedin.com/in/talhaturacturk
 
 ## References
 
