@@ -9,10 +9,10 @@ MOSFET (Metal Oxide Semiconductor Field Effect Transistor) is a widely used comp
 
 The advantages of MOSFET over other semiconductor elements in switching are as follows:
 
-    •   Low Input Capacitance: The input capacitance of the MOSFET is lower than that of other semiconductor switchers. This allows the MOSFET to switch quickly and enables higher switching frequencies.
-    •   High Efficiency      : The internal resistance of the MOSFET is low, which reduces energy loss. Therefore, MOSFET-based switching circuits have higher efficiency.
-    •   High Switching Speed : MOSFET can be switched faster compared to other semiconductor switchers. Therefore, MOSFET-based switching circuits can operate at higher switching frequencies.
-    •   Small Size           : MOSFET is smaller in size compared to other semiconductor switchers. This allows for denser circuit designs.
+    •   Low Input Capacitance  : The input capacitance of the MOSFET is lower than that of other semiconductor switchers. This allows the MOSFET to switch quickly and enables higher switching frequencies.
+    •   High Efficiency        : The internal resistance of the MOSFET is low, which reduces energy loss. Therefore, MOSFET-based switching circuits have higher efficiency.
+    •   High Switching Speed   : MOSFET can be switched faster compared to other semiconductor switchers. Therefore, MOSFET-based switching circuits can operate at higher switching frequencies.
+    •   Small Size             : MOSFET is smaller in size compared to other semiconductor switchers. This allows for denser circuit designs.
 
 Since MOSFET has a wide range of applications, many researchers are working to improve the design and performance of MOSFET-based switching circuits. In DC/DC converters, MOSFETs are preferred over other semiconductor switches in high switching frequency applications. MOSFETs offer several advantages compared to other semiconductor switches in high switching frequency applications. First of all, the most important reason for using MOSFETs in high-switching frequency applications is that they have less power dissipation at high switching frequencies than at low switching frequencies. Therefore, MOSFETs stand out as a more efficient option in high frequency applications.
 In addition, MOSFETs have the advantage of higher power density than other semiconductor switching devices. By operating at a higher power density, MOSFETs can switch at higher current and voltage levels.
